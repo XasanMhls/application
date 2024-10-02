@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(asd.png) no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    width: 1180px;
+    height: 392px;
+    background: url(sohrs.png) white no-repeat center /cover;
+    position: relative;
+    top: 230px;
+    left: 190px;
+
+}
+
+.box-main {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 750px;
+    margin: auto;
+}
+
+.box-label input,
+label {
+    background-color: #ffffff;
+    width: 362.49px;
+    height: 50.72px;
+    border-radius: 9px;
+
+
+}
+.box-text label, textarea{
+    background-color: #ffffff;
+    width: 449.73px;
+height: 81.65px;
+
+border-radius: 9px;
+position: relative;
+top: ;
+
+}
